@@ -1,6 +1,6 @@
 # bug-system
 
-> A Vue.js project
+> bug系统。vue + vue-router + vuex + axios + element-ui + echarts 
 
 ## Build Setup
 
