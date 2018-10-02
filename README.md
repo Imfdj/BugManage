@@ -1,6 +1,6 @@
 # bug-system
 
-> bug系统。vue + vue-router + vuex + axios + element-ui + echarts 
+> bug系统，模拟的数据。vue + vue-router + vuex + axios + element-ui + echarts 
 
 ## Build Setup
 
