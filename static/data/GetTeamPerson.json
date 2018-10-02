@@ -1,0 +1,86 @@
+{
+    "data": [
+        {
+            "TeamID": 25,
+            "EmployeeNickName": "fdj",
+            "JoinDate": "2018-05-07T15:53:31",
+            "PersonDetailID": 151,
+            "CompanyCode": "00001",
+            "EmployeeAccount": "907765782@qq.com",
+            "IsAdministor": true
+        },
+        {
+            "TeamID": 25,
+            "EmployeeNickName": "5555",
+            "JoinDate": "2018-05-07T15:53:43",
+            "PersonDetailID": 152,
+            "CompanyCode": "00001",
+            "EmployeeAccount": "5555@qq.com",
+            "IsAdministor": false
+        },
+        {
+            "TeamID": 25,
+            "EmployeeNickName": "1473890461",
+            "JoinDate": "2018-05-07T17:21:30",
+            "PersonDetailID": 153,
+            "CompanyCode": "00001",
+            "EmployeeAccount": "1473890461@qq.com",
+            "IsAdministor": false
+        },
+        {
+            "TeamID": 25,
+            "EmployeeNickName": "阿斯蒂芬",
+            "JoinDate": "2018-05-18T17:08:55",
+            "PersonDetailID": 161,
+            "CompanyCode": "00001",
+            "EmployeeAccount": "9999@qq.com",
+            "IsAdministor": false
+        },
+        {
+            "TeamID": 25,
+            "EmployeeNickName": "3191259598",
+            "JoinDate": "2018-05-18T17:16:25",
+            "PersonDetailID": 162,
+            "CompanyCode": "00001",
+            "EmployeeAccount": "3191259598@qq.com",
+            "IsAdministor": false
+        },
+        {
+            "TeamID": 25,
+            "EmployeeNickName": "110",
+            "JoinDate": "2018-05-30T11:03:25",
+            "PersonDetailID": 163,
+            "CompanyCode": "00001",
+            "EmployeeAccount": "110@qq.com",
+            "IsAdministor": false
+        },
+        {
+            "TeamID": 25,
+            "EmployeeNickName": "220",
+            "JoinDate": "2018-05-30T11:03:31",
+            "PersonDetailID": 164,
+            "CompanyCode": "00001",
+            "EmployeeAccount": "220@qq.com",
+            "IsAdministor": false
+        },
+        {
+            "TeamID": 25,
+            "EmployeeNickName": "333",
+            "JoinDate": "2018-09-04T11:27:30",
+            "PersonDetailID": 165,
+            "CompanyCode": "00001",
+            "EmployeeAccount": "333@qq.com",
+            "IsAdministor": false
+        },
+        {
+            "TeamID": 25,
+            "EmployeeNickName": "444",
+            "JoinDate": "2018-09-04T11:27:36",
+            "PersonDetailID": 166,
+            "CompanyCode": "00001",
+            "EmployeeAccount": "444@qq.com",
+            "IsAdministor": false
+        }
+    ],
+    "code": 9
+}

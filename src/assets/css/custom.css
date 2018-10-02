@@ -1,0 +1,40 @@
+/*优先级和状态样式*/
+.state-Danger {
+    background-color: #F56C6C;
+}
+
+.state-Success {
+    background-color: #67C23A;
+}
+
+.state-Warning {
+    background-color: #FFA900;
+}
+.priority-ff00ff {
+    color: #ff00ff;
+}
+.priority-cc3300 {
+    color: #cc3300;
+}
+.priority-996600 {
+    color: #996600;
+}
+.priority-999900 {
+    color: #999900;
+}
+.priority-339900 {
+    color: #339900;
+}
+/*-----------*/
+a {
+    text-decoration: none;
+}
+/*富文本img尺寸*/
+.simditor img {
+    max-width: 100% !important;
+    height: 100% !important;
+}
+/*任务类别div*/
+.task-categories-div .el-radio+.el-radio {
+    margin-left: 10px;
+}

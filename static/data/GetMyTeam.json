@@ -1,0 +1,47 @@
+{
+    "data": [
+        {
+            "Logo": "1",
+            "TeamID": 25,
+            "CompanyCode1": "00001",
+            "JoinDate": "2018-05-07T15:53:31",
+            "Contacts": "",
+            "PersonDetailID": 151,
+            "CompanyCode": "00001",
+            "Account": "907765782@qq.com",
+            "EmployeeAccount": "907765782@qq.com",
+            "TeamName": "测试团队",
+            "TeamID1": 25,
+            "Telephone": ""
+        },
+        {
+            "Logo": "2",
+            "TeamID": 26,
+            "CompanyCode1": "00001",
+            "JoinDate": "2018-05-16T09:36:25",
+            "Contacts": "",
+            "PersonDetailID": 154,
+            "CompanyCode": "00001",
+            "Account": "907765782@qq.com",
+            "EmployeeAccount": "907765782@qq.com",
+            "TeamName": "测试团队2",
+            "TeamID1": 26,
+            "Telephone": ""
+        },
+        {
+            "Logo": "",
+            "TeamID": 27,
+            "CompanyCode1": "00001",
+            "JoinDate": "2018-05-16T16:14:52",
+            "Contacts": "",
+            "PersonDetailID": 157,
+            "CompanyCode": "00001",
+            "Account": "907765782@qq.com",
+            "EmployeeAccount": "907765782@qq.com",
+            "TeamName": "测试团队3",
+            "TeamID1": 27,
+            "Telephone": ""
+        }
+    ],
+    "code": 4
+}

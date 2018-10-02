@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "CMaker_ID": 107,
+            "ProcessingPerson": "110",
+            "ReMark": null,
+            "TaskType": "开发",
+            "DealID": 749,
+            "InputDate": "2018-09-15T10:55:42",
+            "ProcessingPerson_ID": 107,
+            "BugID": 363,
+            "BugState": "未修复",
+            "CMaker": "110"
+        },
+        {
+            "CMaker_ID": 107,
+            "ProcessingPerson": "110",
+            "ReMark": "",
+            "TaskType": "开发",
+            "DealID": 750,
+            "InputDate": "2018-09-15T10:55:48",
+            "ProcessingPerson_ID": 107,
+            "BugID": 363,
+            "BugState": "已解决",
+            "CMaker": "110"
+        }
+    ],
+    "code": 2
+}

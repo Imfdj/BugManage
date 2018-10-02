@@ -1,0 +1,10 @@
+{
+    "EmployeeInfo": {
+        "EmployeePosition": "",
+        "EmployeeNickName": "fdj",
+        "CompanyCode": "00001",
+        "EmployeeAccount": "11111@qq.com",
+        "IsAdministor": "是",
+        "EmployeeID": 42
+    }
+}
