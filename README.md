@@ -2,6 +2,8 @@
 
 > bug系统，模拟的数据。vue + vue-router + vuex + axios + element-ui + echarts ； https://imfdj.github.io/BugManage/#/login
 
+账号密码任意
+
 ## Build Setup
 
 ``` bash
